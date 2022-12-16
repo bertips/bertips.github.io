@@ -10,7 +10,7 @@ Hi, I'm admin, a golang/phper/js Developer 🚀 from indonesia, currently, I'm a
 - 🌱 I’m currently learning vue and react; 
 - 🤔 I’m looking for help with javascript;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: phachon@163.com;
+- 📫 How to reach me: admin@bertips.com;
 
 **Languages and Tools:**  
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/bertips)](https://github.com/bertips) 
