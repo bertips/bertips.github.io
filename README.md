@@ -29,7 +29,6 @@ Hi, I'm admin, a golang/phper/js Developer 🚀 from indonesia, currently, I'm a
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/bertips)](https://github.com/bertips)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/bertips)](https://github.com/bertips) 
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/bertips)](https://gitlab.com/phachon) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/bertips)](https://github.com/bertips)
 
 
