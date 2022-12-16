@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [admin!](https://github.com/bertips) 
 
-Hi, I'm phachon, a golang/phper/js Developer 🚀 from China, currently, I'm a development engineer.
+Hi, I'm admin, a golang/phper/js Developer 🚀 from indonesia, currently, I'm a development engineer.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
   
@@ -32,7 +32,7 @@ Hi, I'm phachon, a golang/phper/js Developer 🚀 from China, currently, I'm a d
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/phachon)](https://gitlab.com/phachon) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/phachon)](https://github.com/phachon)
 
-![Phachon's github stats](https://github-readme-stats.vercel.app/api?username=phachon&show_icons=true&hide_border=true)
+![Admin's github stats](https://github-readme-stats.vercel.app/api?username=phachon&show_icons=true&hide_border=true)
 
 <p align="center"> 
   Visitor count<br>
