@@ -1,4 +1,3 @@
-/*<![CDATA[*/ Defer.all('script[type="deferjs"]', 50, true);Defer.dom('.lazy', 200, 'lazied', null, {rootMargin:'1px'}),'undefined'!=typeof infinite_scroll&&infinite_scroll.on('load',function(){Defer.dom('.lazy', 200, 'lazied', null, {rootMargin:'1px'}) });  /*]]>*/
 /* Adsense Max Click */
 ! function () {
   function o(e, n) {
@@ -40,6 +39,7 @@ var imgBp = document.getElementsByTagName('img');
         imgBp[i].src = imgBp[i].src.replace('1.bp.blogspot.com', '2.bp.blogspot.com');
     }
 }, 1000); /*]]>*/
+/*<![CDATA[*/ Defer.all('script[type="deferjs"]', 50, true);Defer.dom('.lazy', 200, 'lazied', null, {rootMargin:'1px'}),'undefined'!=typeof infinite_scroll&&infinite_scroll.on('load',function(){Defer.dom('.lazy', 200, 'lazied', null, {rootMargin:'1px'}) });  /*]]>*/
 /*<![CDATA[*/ var pres=document.getElementsByTagName(&quot;pre&quot;);for(var i=0;i&lt;pres.length;i++){pres[i].addEventListener(&quot;dblclick&quot;,function(){var selection=getSelection();var range=document.createRange();range.selectNodeContents(this);selection.removeAllRanges();selection.addRange(range)},!1)} /*]]>*/
 /*<![CDATA[*/ var lazyts=!1;window.addEventListener("scroll",function(){(0!=document.documentElement.scrollTop&&!1===lazyts||0!=document.body.scrollTop&&!1===lazyts)&&(!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://cdn.bertips.com/translate.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(e,a)}(),lazyts=!0)},!0); /*]]>*/
 /*<![CDATA[*/ document.addEventListener("contextmenu",function(e){"IMG"===e.target.nodeName&&e.preventDefault()},!1); /*]]>*/
