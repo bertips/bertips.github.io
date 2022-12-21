@@ -1,7 +1,3 @@
-<script>
-//<![CDATA[
-// Formulir whatsapp by wendy code
-// Tombol Buka Tutup
 $(".form-close").click(function(){
   $(".wendy-form-wa").fadeOut("fast")}
 );$(".show-form").click(function(){
@@ -112,5 +108,3 @@ window.location.href = input_viaUrl;
 return false;
   }
 };
-//]]> 
-</script>
