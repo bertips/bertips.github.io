@@ -5,3 +5,4 @@
     message: "Click on Ads to support developer.",
     maxage: 24*60*60
   })
+popupAds.init()
