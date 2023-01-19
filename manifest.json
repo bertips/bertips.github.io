@@ -1,4 +1,3 @@
-addEventListener("fetch", event => {
   const data = {
     name: "Bertips.com",
     short_name: "bertips",
@@ -71,4 +70,4 @@ addEventListener("fetch", event => {
       }
     })
   )
-})
+
