@@ -1,0 +1,52 @@
+{
+ "name": "APKMOD™",
+ "short_name": "APKMOD™",
+ "description": "Easily find and download thousands of original APK",
+ "scope": "https://apkmod.safelinks.my.id/",
+ "lang": "en",
+ "dir": "ltr",
+ "theme_color": "#fff",
+ "start_url": "https://apkmod.safelinks.my.id/",
+ "background_color": "#fff",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ "version": "1.0.0",
+ "author": "Syabiz Tech",
+ "icons": [{
+    "src": "https://icons.iconarchive.com/icons/designbolts/free-cute-shaded-social/48/Android-icon.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://icons.iconarchive.com/icons/designbolts/free-cute-shaded-social/48/Android-icon.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://icons.iconarchive.com/icons/designbolts/free-cute-shaded-social/72/Android-icon.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://icons.iconarchive.com/icons/designbolts/free-cute-shaded-social/96/Android-icon.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://icons.iconarchive.com/icons/designbolts/free-cute-shaded-social/512/Android-icon.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://icons.iconarchive.com/icons/designbolts/free-cute-shaded-social/512/Android-icon.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://icons.iconarchive.com/icons/designbolts/free-cute-shaded-social/512/Android-icon.png'",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }],
+    "start_url": "/?utm_source=launcher"
+}
